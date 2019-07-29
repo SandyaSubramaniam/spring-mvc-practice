@@ -1,0 +1,40 @@
+body {
+	background-image: linear-gradient(#ffcccc, #ffffff);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: Arial;
+	text-align: center;
+}
+
+p {
+	font-size: 30px;
+	font-family: Arial;
+	text-align: center;
+}
+
+div {
+	width: 800px;
+	margin: 0 auto;
+}
+
+input, button{
+	font-size: 20px;
+	width: 200px;
+
+}
+select, label{
+	font-size: 20px;
+	
+}
+
+.die {
+	border: 1px solid black;
+	padding: 2px 14px;
+	font-size: 200%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px silver;
+	width: 100px;
+}
