@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.grandcircus</groupId>
-	<artifactId>mileage-calculator</artifactId>
+	<artifactId>spring-mvc-practice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mileage-calculator</name>
+	<name>spring-mvc-practice</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
